@@ -1,0 +1,16 @@
+CONTENTS:
+
+14.01_ClimateChange_Q01_1.5C question1 - using ext sources
+14.02.02_ClimateChange_Q02_1.5C question2 - auto-rating
+14.02_ClimateChange_Q02_1.5C question2 - auto-rating
+14.03_ClimateChange_Q03_Overshoot definition_incomplete-incorrect answers-copyright limitations
+14.04_ClimateChange_Q04_Overshoot avoidance_Self rating
+14.05_ClimateChange_Q05_Emissions reduction_Accuracy vs completeness
+14.06_ClimateChange_Q06_Financing adaptation_Formulating a good prompt
+14.07_ClimateChange_Q07_Finance recipients_Useless references-denial
+14.08_ClimateChange_Q08_Scaling-up adaptation_Page number errors
+14.09_ClimateChange_Q09_Affected regions_wrong references-incomplete answers
+14.10_ClimateChange_Q10_Climate justice_Omitting report contents ex. annexes
+14.11_ClimateChange_Q11_Maladaptation definition_Input vs own knowledge
+14.12_ClimateChange_Q12_Maladaptation evidence_wrong page numbers
+14.13_ClimateChange_Q13_Scotland glaciers melting_Handling incorrect prompt
