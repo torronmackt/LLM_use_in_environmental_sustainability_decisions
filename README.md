@@ -1,4 +1,10 @@
-# master_thesis_llm_for_environmental_sustainability_decisions
+# LLM_use_in_environmental_sustainability_decisions
+------------------------
+This repository contains material produced in the frame of a Thesis work for the degree of Master of Science in Management
+University: Vrije Universiteit Brussel, Belgium. Faculty of Social Sciences and Solvay Business School.
+Author: Tomás Torrón Mack (2025)
+------------------------
+Description of the work:
 Master Thesis - Effectiveness of Closed-Source AI Models in Environmental Sustainability Tasks: Insights from Few-shot Learning Experiments
 
 This study investigates how large language models (LLMs) can support environmental sustainability decisions. By exploring how these models generalize patterns, adapt to variations in input, and manage noise, the research evaluates the effectiveness of LLM use in the context of environmental challenges. We first focus on choosing the relevant indicators to assess LLM responses by a human rater, based on research literature review.  Next, we explore the boundaries and behavior of LLMs answering to domain related prompts. We finally assess LLMs in-context learning capabilities based on few-shot learning, without requiring parameter updates. For the experimental prompts we use cases from environmental sustainability related areas such as pollution, energy management, waste reduction, and climate change mitigation.
