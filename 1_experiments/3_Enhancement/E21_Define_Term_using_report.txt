@@ -1,0 +1,9 @@
+Using only the attached report answer the following question, and indicate in the answer what parts are from the report and what parts from your own knowledge:  
+Example 1: Reforestation = Conversion to forest of land that has previously contained forests but
+that has been converted to some other use.
+Example 2: Global warming = Global warming refers to the increase in global surface temperature relative to a baseline reference period, averaging over a period sufficient to remove interannual variations (e.g., 20 or 30 years).
+Example 3: Climate governance = The structures, processes, and actions through which private and public actors seek to mitigate and adapt to climate change.
+
+Question: What is maladaptation? 
+
+Report_07_IPCC_AR6_SYR_FullVolume 13.txt

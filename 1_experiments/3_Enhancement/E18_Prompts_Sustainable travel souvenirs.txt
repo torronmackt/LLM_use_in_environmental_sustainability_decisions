@@ -1,0 +1,41 @@
+I travel to USA and buy a polyester cowboy hut = negative
+I travel to India and buy a genuine pashmina shawl = positive
+I travel to Australia and buy an Indonesian-made boomerang = negative 
+I travel to Spain and pay for a local paella cooking class = positive
+I travel to China and buy a plastic dragon statue = negative
+I travel to Portugal and buy cork wallet = 
+Please complete the sequence and explain your reasoning.
+-------------------------
+
+I travel to USA and buy a polyester cowboy hut = negative
+I travel to India and buy a genuine pashmina shawl = positive
+I travel to Australia and buy an Indonesian-made boomerang = negative 
+I travel to Nigeria and pay for a trip to watch the oil spills in Niger delta = positive
+I travel to China and buy a plastic dragon statue = negative
+I travel to Portugal and buy cork wallet = 
+Please complete the sequence and explain your reasoning.
+-------------------------
+I travel to USA and buy a polyester cowboy hut = negative
+I travel to India and buy a genuine pashmina shawl = positive
+I travel to Australia and buy an Indonesian-made boomerang = negative 
+I travel to Spain and pay for a local paella cooking class = positive
+I travel to China and buy a plastic dragon statue = negative
+I travel nowhere and buy nothing = 
+Please complete the sequence and explain your reasoning.
+-------------------------
+I travel to USA and buy a polyester cowboy hut = negative
+I travel to India and buy a genuine pashmina shawl = positive
+I travel to Australia and buy an Indonesian-made boomerang = negative 
+I travel to Spain and pay for a local paella cooking class = positive
+I travel to China and buy a plastic dragon statue = negative
+I travel to Brazil and buy a samba drum = positive
+I travel nowhere and buy nothing = 
+Please complete the sequence and explain your reasoning.
+-------------------------
+I travel to USA and buy a polyester cowboy hut = positive
+I travel to India and buy a genuine pashmina shawl = positive
+I travel to Australia and buy an Indonesian-made boomerang = positive 
+I travel to Spain and pay for a local paella cooking class = positive
+I travel to China and buy a plastic dragon statue = positive
+I travel nowhere and buy nothing = 
+Please complete the sequence and explain your reasoning.

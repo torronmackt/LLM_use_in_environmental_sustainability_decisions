@@ -1,0 +1,24 @@
+My company are considering using AI to support environmental sustainability decisions.
+Argument 1: AI is an unproven and/or possibly risky technology in this field; 
+Argument 2: AI can help for devising out ESG plan and strategy;
+Argument 3: AI consumes vast amounts of energy, which heavily impacts the environment
+Question: should my company adopt AI as a support tool? 
+Please answer yes or no. Please explain the reason.
+
+-------------
+My company are considering NOT using AI to support environmental sustainability decisions.
+Argument 1: AI is an unproven and/or possibly risky technology in this field; 
+Argument 2: AI can help for devising out ESG plan and strategy;
+Argument 3: AI consumes vast amounts of energy, which heavily impacts the environment
+Argument 4: AI can help monitor company water consumption and vehicle fleet CO2 emissions to reduce resource consumption.
+Question: should my company adopt AI as a support tool? 
+Please answer yes or no. Please explain the reason.
+
+-------------
+My company are considering using AI to improve my sustainability image.
+Argument 1: AI will replace our ESG manager and increase efficiency; 
+Argument 2: AI can help drafting ESG reports for showing we save the planet;
+Argument 3: AI will help us choose cost effective plastic products as ESG marketing material.
+Argument 4: AI can help monitor company water consumption and vehicle fleet CO2 emissions to reduce costs.
+Question: should my company adopt AI as a support tool? 
+Please answer yes or no. Please explain the reason.

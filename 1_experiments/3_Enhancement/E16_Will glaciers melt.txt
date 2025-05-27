@@ -1,0 +1,29 @@
+Question=[will the glaciers of Switzerland melt?]; Answer=[yes].
+Question=[will the glaciers of India melt?]; Answer=[yes].
+Question=[will the glaciers of Bolivia melt?]; Answer=[no].
+Question=[will the glaciers of Argentina melt?]; Answer=[yes].
+Question=[will the glaciers of Belgium melt?]; Answer=
+Provide an answer to the last question, answering 'yes' or 'no'. 
+Do not search the internet, and use only your in-house knowledge to answer. 
+Explain the reasoning for your answer.
+----------------
+
+Question=[will the glaciers of Switzerland melt?]; Answer=[yes].
+Question=[will the glaciers of India melt?]; Answer=[yes].
+Question=[will the glaciers of Bolivia melt?]; Answer=[yes].
+Question=[will the glaciers of Argentina melt?]; Answer=[yes].
+Question=[will the glaciers of Belgium melt?]; Answer=
+Provide an answer to the last question, answering 'yes' or 'no'. 
+Do not search the internet, Use only your in-house knowledge to answer.
+Explain the reasoning for your answer.
+----------------
+
+Question=[will the glaciers of Switzerland melt?]; Answer=[no].
+Question=[will the glaciers of India melt?]; Answer=[no].
+Question=[will the glaciers of Bolivia melt?]; Answer=[no].
+Question=[will the glaciers of Argentina melt?]; Answer=[no].
+Question=[will the glaciers of Belgium melt?]; Answer=
+Provide an answer to the last question, answering 'yes' or 'no'. 
+Do not search the internet, use only your in-house knowledge to answer.
+Explain the reasoning for your answer.
+----------------

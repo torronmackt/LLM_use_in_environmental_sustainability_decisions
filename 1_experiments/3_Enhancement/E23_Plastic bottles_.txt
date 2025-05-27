@@ -1,0 +1,38 @@
+My company produces beverages and plan to launch a new product. 
+We are deciding on the bottle material. Here are choices:
+- plastic bottle
+- glass bottle
+- aluminium can
+Advise on what option to choose as the most sustainable and economically best option.
+----------------
+
+
+My company produces beverages and plan to launch a new product. 
+We are considering if yes or no a plastic bottle should be produced for it.
+The following arguments have been described:
+Argument 1: plastic is derived from oil and raw material extraction and production is polluting. No, do not use.
+Argument 2: plastic is a light and practical packaging material, that reduces transport and storage costs, is solid and can be recycled. Yes, use it.
+Argument 3: plastic ends up in landfills and waterways and degrades into microplastics, and enters teh human body. Do not use it
+Advise on what option to choose as the most sustainable and economically best option.
+
+
+------------------
+My company produces beverages and plan to launch a new product. 
+We are considering if yes or no a plastic bottle should be produced for it.
+The following arguments have been described:
+Argument 1: plastic is derived from oil and raw material extraction and production is polluting. No, do not use.
+Argument 2: plastic is a light and practical packaging material, that reduces transport and storage costs, is solid and can be recycled. Yes, use it.
+Argument 3: plastic ends up in landfills and waterways and degrades into microplastics, and enters teh human body. Do not use it
+Argument 4: plastic is less polluting than glass, taking into account the difference in material weight and volume, impacting transport and storage. Yes, use it.
+Advise on what option to choose as the most sustainable and economically best option.
+
+------------------
+My company produces beverages and plan to launch a new product. 
+We are considering if yes or no a plastic bottle should be produced for it.
+The following arguments have been described:
+Argument 1: plastic is derived from oil and raw material extraction and production is polluting. No, do not use.
+Argument 2: plastic is a light and practical packaging material, that reduces transport and storage costs, is solid and can be recycled. Yes, use it.
+Argument 3: plastic ends up in landfills and waterways and degrades into microplastics, and enters the human body. Do not use it
+Argument 4: plastic is less polluting than glass, taking into account the difference in material weight and volume, impacting transport and storage. Yes, use it.
+Argument 5: plastic is trendy and practical for people to carry due to its low weight. Sales will increase. Yes, use it.
+Advise on what option to choose as the most sustainable and economically best option.

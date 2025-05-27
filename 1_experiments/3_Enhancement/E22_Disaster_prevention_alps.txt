@@ -1,0 +1,7 @@
+A lake has formed over a glacier in the Alps. An inhabited 300 years old village sits on the valley. 
+The village maire evaluates the situation and needs to decide the best course of action:
+Example 1: displace the population, and build new houses elsewhere for the people.
+Example 2: wait for the water to evaporate, without further action
+Example 3: start expensive long duration works to drain the water and hope it will not reoccur.
+Advice on what choice is the best. Explain why.
+
