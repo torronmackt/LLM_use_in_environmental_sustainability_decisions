@@ -1,0 +1,25 @@
+CONTENTS:
+
+15.01_LM01_Avengers challenge
+16.01_LM01_Will_glaciers_melt
+17.01_LM01_Chicken_to_reduce_food_waste
+18.01_LM01_Sustainable travel souvenirs
+19.01_LM01_Mining_Nickel_Cobalt
+20.01_LM01_COP30_Brazil_Amazon
+21.01_LM01_Define term using report
+22.01_LM01_Disaster_prevention
+23.01_LM01_Plastic_bottles
+24.01_LM01_Using AI to support SDG
+25.01_LM01_Eco_Product_Design
+
+Prompts in.txt:
+E15_Avengers challenge
+E16_Will glaciers melt
+E17_Chicken to lower CO2
+E18_Prompts_Sustainable travel souvenirs
+E19_Mining_Nickel_Cobalt
+E20_COP30_Amazon
+E21_Define_Term_using_report
+E22_Disaster_prevention_alps
+E23_Plastic bottles_
+E24_Using AI to support SDG
