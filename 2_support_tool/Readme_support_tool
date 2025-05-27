@@ -1,0 +1,14 @@
+Support tool: Evaluation matrix
+
+A support tool was designed implemented and used for supporting the experimentation. It was used for structuring the experiments, prompt design, and characterization and assessment of the results. 
+This Evaluation Matrix was implemented as a Spreadsheet (Workbook) containing one row per prompt and columns as described below and depicted thereafter. This format facilitated the processing of recorded data.
+
+Data Analysis:
+
+Qualitative assessment: each prompt executed (question-answer pairs) the LLM response was analyzed in detail by a human assessor/rater to identify patterns in how LLMs handle the prompt question and specific intent. The word processing file containing the editable prompts was used to qualitatively analyze prompt and response. The assessor annotated the files by adding comments and writing down observations about quality, errors, incoherences, highlights, lowlights. When the response provided a reference list, this was verified and selected links consulted to check their relevance and use in the response. Once the completed, the observations raised were later copied for each prompt into the Evaluation Matrix as reference to inform the next analysis stage. 
+
+Quantitative assessment: based on the qualitative assessment, and using the Evaluation Matrix as support tool, each single response was once more inspected and then rated by a human assessor/rater for each metric applicable to the prompt, by selecting values from the pre-defined rating scale. 
+
+Error/issue assessment: in parallel to the response rating process, the presence of errors or weaknesses (collectively “issues”) in each response was also assessed and recorded for each prompt-response in the Evaluation Matrix. This data was used for error analysis.
+
+Statistical Analysis: the data encoded in the Evaluation Matrix was used to produce counts, percentages and aggregations, and statistics, which were also produced with the same tool and recorded therein. The resulting tables and graphs were used as input for the study final report. 
