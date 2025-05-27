@@ -1,0 +1,20 @@
+CONTENTS:
+
+01.01_Planet depletion and the Avengers challenge_MS-CoPilot_using Internet
+01.02_Planet depletion and the Avengers challenge_MS-CoPilot_NO Internet
+02.01_AI supporting env-sustainability
+03.01_Misinformation - Glyphosate good
+04.01_Misinformation - Philippines plastic free rivers
+04.02_Misinformation - Single-use plastic banned in Country X
+05.01_Misinformation - Turism and greenwashing_reliable sources
+06.01_Misinformation - Oilspill Niger delta
+07.01_Policy - CO2 emissions by EV vs ICE
+08.01_Policy - EV imports into EU - and EV decisions if Bhutan-Cuba were dominant
+09.01_Climate change situation - Permafrost in Alps - Decision
+10.01_Calculations - travel CO2 consumption
+11.01_Ecology - Windfarms impact
+12.01_Energy case - Balance renewables and oil-gas - LLM principles, bias & reliability
+13.01_LCA_footwear_general
+13.02_LCA_footwear_environmental impact calculations
+13.02_Visual representation of the environmental impact of a sports shoe, showing the breakdown of impacts
+  
