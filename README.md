@@ -1,8 +1,11 @@
 # LLM_use_in_environmental_sustainability_decisions
 ------------------------
-This repository contains material produced in the frame of a Thesis work for the degree of Master of Science in Management
-University: Vrije Universiteit Brussel, Belgium. Faculty of Social Sciences and Solvay Business School.
+This repository contains material produced in the frame of a Thesis work for the degree of Master of Science in Management. 
+
+University: Vrije Universiteit Brussel, Belgium. Faculty of Social Sciences and Solvay Business School. 
+
 Author: Tomás Torrón Mack (2025)
+
 ------------------------
 Description of the work:
 Master Thesis - Effectiveness of Closed-Source AI Models in Environmental Sustainability Tasks: Insights from Few-shot Learning Experiments
